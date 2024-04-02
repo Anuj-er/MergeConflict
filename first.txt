@@ -6,3 +6,4 @@ content added by dev2
 =======
 Changes has been made
 >>>>>>> newbranch
+New changes
