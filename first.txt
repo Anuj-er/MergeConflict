@@ -1,4 +1,8 @@
 First file is created 
+<<<<<<< HEAD
 
 
 content added by dev2
+=======
+Changes has been made
+>>>>>>> newbranch
